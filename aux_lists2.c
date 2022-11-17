@@ -5,7 +5,7 @@
  * of a r_var list.
  * @head: head of the linked list.
  * @lvar: length of the variable.
- * @val: value of the variable.
+ * @val: value of the variable
  * @lval: length of the value.
  * Return: address of the head.
  */

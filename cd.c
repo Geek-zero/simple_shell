@@ -3,7 +3,7 @@
 /**
  * cd_dot - changes to the parent directory
  *
- * @datash: data relevant (environ)
+ * @datash: data relevant (environ).
  *
  * Return: no return
  */
